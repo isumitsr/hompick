@@ -638,7 +638,7 @@ footer {
 .ion-social-twitter,
 .ion-social-linkedin,
 .ion-social-instagram,
-.ion-social-googleplus {
+.fa fa-github {
     -webkit-transition: color 0.2s;
     transition: color 0.2s;
 }
@@ -660,9 +660,6 @@ footer {
     color: #517fa4;
 }
 
-.ion-social-googleplus:hover {
-    color: #dd4b39;
-}
 
 footer p {
     color: #888;
