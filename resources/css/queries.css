@@ -86,7 +86,6 @@
     .sticky .mobile-nav-icon i { color: #555; }
     
     
-    
     h1 { font-size: 180%; }
     h2 { font-size: 150%; }
     
@@ -128,10 +127,8 @@
 }
 
 
-
 /* Small phones: from 0 to 480px */
 @media only screen and (max-width: 480px) {
     section { padding: 25px 0; }
     .contact-form {width: 100%; }
 }
-
